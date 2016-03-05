@@ -1,0 +1,24 @@
+{
+  "name": "gobble-forcecopy",
+  "version": "1.0.0",
+  "description": "Force a copy of all files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julienw/gobble-forcecopy.git"
+  },
+  "keywords": [
+    "gobble",
+    "gobble-plugin",
+    "copy"
+  ],
+  "author": "Julien Wajsberg <felash@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/julienw/gobble-forcecopy/issues"
+  },
+  "homepage": "https://github.com/julienw/gobble-forcecopy#readme"
+}
